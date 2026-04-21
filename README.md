@@ -49,14 +49,14 @@ ima-router supports industry-standard APIs:
 
 Use the language-specific guides instead of putting every Quick Start directly on the repository front page:
 
-* SDK index: [sdk/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/sdk/README.md)
-* Examples index: [examples/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/examples/README.md)
-* Python SDK: [sdk/python/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/sdk/python/README.md)
-* Go SDK: [sdk/go/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/sdk/go/README.md)
-* Java SDK: [sdk/java/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/sdk/java/README.md)
-* Python examples: [examples/python/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/examples/python/README.md)
-* Go examples: [examples/go/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/examples/go/README.md)
-* Java examples: [examples/java/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/examples/java/README.md)
+* SDK index: [sdk/README.md](sdk/README.md)
+* Examples index: [examples/README.md](examples/README.md)
+* Python SDK: [sdk/python/README.md](sdk/python/README.md)
+* Go SDK: [sdk/go/README.md](sdk/go/README.md)
+* Java SDK: [sdk/java/README.md](sdk/java/README.md)
+* Python examples: [examples/python/README.md](examples/python/README.md)
+* Go examples: [examples/go/README.md](examples/go/README.md)
+* Java examples: [examples/java/README.md](examples/java/README.md)
 
 ---
 

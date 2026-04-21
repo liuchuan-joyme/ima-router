@@ -4,9 +4,9 @@ ima-router currently provides local SDKs for:
 
 | Language | SDK Guide | Notes |
 | --- | --- | --- |
-| Python | [sdk/python/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/sdk/python/README.md) | Editable install, OpenAI/Anthropic compatible, multimodal helpers |
-| Go | [sdk/go/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/sdk/go/README.md) | Standard library only |
-| Java | [sdk/java/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/sdk/java/README.md) | JDK-only implementation, no Maven dependency required |
+| Python | [python/README.md](python/README.md) | Editable install, OpenAI/Anthropic compatible, multimodal helpers |
+| Go | [go/README.md](go/README.md) | Standard library only |
+| Java | [java/README.md](java/README.md) | JDK-only implementation, no Maven dependency required |
 
 ## Recommendation
 
