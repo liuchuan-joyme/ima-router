@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ima-router-python"
+version = "0.1.0"
+description = "Python SDK for IMA Router LLM and multimodal endpoints"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "ima" }]
+license = { text = "MIT" }
+dependencies = ["httpx>=0.27,<1"]
+keywords = ["ima-router", "llm", "openai-compatible", "anthropic-compatible"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+[project.urls]
+Homepage = "https://api.imarouter.com"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

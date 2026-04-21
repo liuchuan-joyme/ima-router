@@ -45,6 +45,21 @@ ima-router supports industry-standard APIs:
 
 ---
 
+### 🧰 SDKs & Examples
+
+Use the language-specific guides instead of putting every Quick Start directly on the repository front page:
+
+* SDK index: [sdk/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/sdk/README.md)
+* Examples index: [examples/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/examples/README.md)
+* Python SDK: [sdk/python/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/sdk/python/README.md)
+* Go SDK: [sdk/go/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/sdk/go/README.md)
+* Java SDK: [sdk/java/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/sdk/java/README.md)
+* Python examples: [examples/python/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/examples/python/README.md)
+* Go examples: [examples/go/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/examples/go/README.md)
+* Java examples: [examples/java/README.md](/Users/liuchuan/Desktop/goProjects/ima-new/ima-router/examples/java/README.md)
+
+---
+
 ### 🎬 Full Multimodal Support
 
 #### 🧠 LLMs
@@ -88,47 +103,9 @@ ima-router supports industry-standard APIs:
 
 ## 🚀 Quick Start
 
-### Python (OpenAI Compatible)
+The repository root should stay concise. For language-specific setup, SDK usage, and runnable demos, use the links above.
 
-```python
-from openai import OpenAI
-
-client = OpenAI(
-    api_key="YOUR_API_KEY",
-    base_url="https://api.imarouter.com/v1"
-)
-
-response = client.chat.completions.create(
-    model="gpt-4o",
-    messages=[{"role": "user", "content": "Hello!"}]
-)
-
-print(response.choices[0].message.content)
-```
-
----
-
-### Anthropic Compatible
-
-```python
-import anthropic
-
-client = anthropic.Anthropic(
-    api_key="YOUR_API_KEY",
-    base_url="https://api.imarouter.com"
-)
-
-response = client.messages.create(
-    model="claude-3",
-    messages=[{"role": "user", "content": "Hello!"}]
-)
-
-print(response)
-```
-
----
-
-### cURL Example
+Minimal universal example:
 
 ```bash
 curl https://api.imarouter.com/v1/chat/completions \
@@ -170,13 +147,12 @@ ima-router provides:
 ## 📚 Documentation
 
 👉 Full API reference:
-https://open-route-api.fashionlabs.cn/431672322e0
+[open-route-api.fashionlabs.cn/431672322e0](https://open-route-api.fashionlabs.cn/431672322e0)
 
 ---
 
 ## 🌍 Roadmap
 
-* [ ] SDK (Python / Go / Java)
 * [ ] Cost comparison dashboard
 * [ ] Model benchmarks
 * [ ] More multimodal demos
