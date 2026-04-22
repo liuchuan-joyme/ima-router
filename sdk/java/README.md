@@ -20,7 +20,7 @@ This README is only meant to show representative SDK usage.
 
 For the latest supported models, parameters, and capability updates, always check:
 
-- [Official API docs](https://open-route-api.fashionlabs.cn/431672322e0)
+- [Official website](https://www.imarouter.com/)
 
 ## Compile
 
@@ -40,4 +40,4 @@ import com.imarouter.sdk.Requests;
 
 - Do not treat the example model names as the full supported model list.
 - New models may be available before this README is updated.
-- Model-specific parameters should follow the official documentation and server-side validation.
+- Model-specific parameters should follow the official website guidance and server-side validation.

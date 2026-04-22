@@ -15,7 +15,7 @@ The snippets below are only representative examples for how to call the SDK.
 
 For the latest supported models, parameters, and capability updates, always check:
 
-- [Official API docs](https://open-route-api.fashionlabs.cn/431672322e0)
+- [Official website](https://www.imarouter.com/)
 
 Features:
 
@@ -94,4 +94,4 @@ client = IMARouter(
 
 - Do not treat the model names in this README as the full supported model list.
 - New models can be added before this README is updated.
-- Server-side validation and the official docs are the source of truth for model-specific parameters.
+- Server-side validation and the official website are the source of truth for model-specific parameters and current model coverage.

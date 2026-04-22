@@ -21,15 +21,14 @@ ima-router is a **unified AI gateway** that lets you:
 
 ### 🔑 One API Key
 
-No more managing multiple providers:
+No more managing multiple providers or constantly updating integrations one by one.
 
-* OpenAI
-* Anthropic
-* Google
-* MiniMax
-* Kling / Vidu / PixVerse
+* One key for a fast-growing set of leading AI providers
+* One unified integration surface for LLM, Image, Video and Audio
+* One billing and routing layer for your app
 
-👉 Just **one key** to access everything
+👉 For the latest supported providers and models, visit our official website:
+[www.imarouter.com](https://www.imarouter.com/)
 
 ---
 
@@ -59,8 +58,8 @@ Current highlights:
 * Happy Horse
 * Kling v3
 
-👉 For the full and continuously updated model list, check the official docs:
-[open-route-api.fashionlabs.cn/431672322e0](https://open-route-api.fashionlabs.cn/431672322e0)
+👉 For the latest supported hot models and continuously updated lineup, visit:
+[www.imarouter.com](https://www.imarouter.com/)
 
 ---
 
@@ -81,12 +80,15 @@ Use the language-specific guides instead of putting every Quick Start directly o
 
 ### 🎬 Full Multimodal Support
 
+Representative examples:
+
 #### 🧠 LLMs
 
 * Claude
 * GPT
 * Kimi
 * Doubao
+* and more
 
 #### 🎥 Video Generation
 
@@ -95,13 +97,18 @@ Use the language-specific guides instead of putting every Quick Start directly o
 * Kling
 * MiniMax
 * PixVerse
+* and more
 
 #### 🖼 Image Generation
 
 * Gemini
 * Midjourney (MJ)
+* Banana
+* Happy Horse
+* and more
 
-👉 All accessible through one unified interface
+👉 All accessible through one unified interface.
+For the latest model coverage, visit [www.imarouter.com](https://www.imarouter.com/)
 
 ---
 

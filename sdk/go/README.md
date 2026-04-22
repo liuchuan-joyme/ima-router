@@ -15,7 +15,7 @@ These examples are only representative request patterns.
 
 For the latest supported models, parameters, and capability updates, always check:
 
-- [Official API docs](https://open-route-api.fashionlabs.cn/431672322e0)
+- [Official website](https://www.imarouter.com/)
 
 The SDK uses the Go standard library only.
 
@@ -57,4 +57,4 @@ func main() {
 
 - Do not treat the model name in this README as the complete supported model matrix.
 - New models may be available before this README is refreshed.
-- Model-specific parameters should follow the official documentation and server-side validation.
+- Model-specific parameters should follow the official website guidance and server-side validation.
