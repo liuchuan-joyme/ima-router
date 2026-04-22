@@ -1,9 +1,9 @@
 # ima-router
 
-🔥 One API Key for ALL AI models
+🔥 One API Key for mainstream AI models across China + US
 🧠 OpenAI + Anthropic API compatible
-🎬 Unified access to Video, Image, Audio & LLM
-💰 Save up to 66% vs fal.ai
+🎬 Multimodal-first: LLM + Image + Video + Audio in one API
+💰 Better pricing, stronger stability, faster model access
 
 ---
 
@@ -11,21 +11,36 @@
 
 ima-router is a **unified AI gateway** that lets you:
 
-👉 Use **all major AI models with ONE API key**
-👉 Access **LLMs + Video + Image + Audio** in a single API
-👉 Switch providers without changing your code
+👉 Use **mainstream AI models across China + US with ONE API key**
+👉 Access **LLMs + Video + Image + Audio** in a single API layer
+👉 Switch providers and hot models without rewriting your integration
+👉 Build on **pricing advantages, routing stability, and broad multimodal coverage**
 
 ---
 
 ## ⚡ Why ima-router?
 
+### 🏆 Built For Real Multimodal API Usage
+
+ima-router is not just an LLM router.
+It is designed for teams that need one production gateway for:
+
+* LLM APIs
+* image generation APIs
+* video generation APIs
+* audio and multimodal workflows
+
+👉 Instead of stitching together separate providers, billing systems, and unstable adapters, you integrate once and expand from there.
+
+---
+
 ### 🔑 One API Key
 
 No more managing multiple providers or constantly updating integrations one by one.
 
-* One key for a fast-growing set of leading AI providers
-* One unified integration surface for LLM, Image, Video and Audio
-* One billing and routing layer for your app
+* One key for a fast-growing set of leading AI providers and model platforms
+* One integration surface for LLM, Image, Video and Audio
+* One billing and routing layer for your application stack
 
 👉 For the latest supported providers and models, visit our official website:
 [www.imarouter.com](https://www.imarouter.com/)
@@ -41,6 +56,22 @@ ima-router supports industry-standard APIs:
 * ✅ Anthropic Messages API
 
 👉 Zero migration cost for existing apps
+
+---
+
+### 🌏 Broad Model Coverage
+
+ima-router focuses on **broad multimodal coverage across mainstream China + US model ecosystems**.
+
+That means you can use one gateway to reach:
+
+* top frontier LLMs
+* image models
+* video generation models
+* fast-moving new releases
+
+👉 For the latest provider and model coverage, visit:
+[www.imarouter.com](https://www.imarouter.com/)
 
 ---
 
@@ -112,11 +143,23 @@ For the latest model coverage, visit [www.imarouter.com](https://www.imarouter.c
 
 ---
 
-### 💰 Lower Cost
+### 🛡 Stability & Routing
 
-* Up to **66% cheaper** than fal.ai
+* Unified routing layer for multiple providers and model families
+* Easier failover and switching between providers
+* Better operational consistency than stitching together many separate APIs
+
+👉 Built for teams that care about production reliability, not just quick demos.
+
+---
+
+### 💰 Pricing Advantage
+
+* Competitive pricing across multimodal workloads
 * **0% markup**
-* Transparent pricing
+* Transparent pricing strategy
+
+👉 For the latest pricing and supported plans, visit [www.imarouter.com](https://www.imarouter.com/)
 
 ---
 
@@ -167,10 +210,14 @@ ima-router provides:
 * Intelligent routing
 * Cost optimization
 * Automatic failover
+* Multimodal API unification
 
 ---
 
 ## 📚 Documentation
+
+👉 Official website:
+[www.imarouter.com](https://www.imarouter.com/)
 
 👉 Full API reference:
 [open-route-api.fashionlabs.cn/431672322e0](https://open-route-api.fashionlabs.cn/431672322e0)
