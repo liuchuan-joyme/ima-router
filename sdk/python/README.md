@@ -2,13 +2,20 @@
 
 Python SDK for the IMA Router LLM and multimodal endpoints defined in the current `openapi.yaml`.
 
-Supported endpoint groups:
+## What This SDK Covers
 
 - LLM: `POST /v1/chat/completions`, `POST /v1/responses`, `POST /v1/messages`
 - Images: `POST /v1/images/generations`, `GET /v1/images/generations/{task_id}`
 - Videos: `POST /v1/videos`, `GET /v1/videos/{task_id}`
 - Kling: `POST /kling/v1/videos/text2video`, `POST /kling/v1/videos/image2video`
 - Midjourney: `POST /mj/submit/imagine`, `GET /mj/task/{task_id}/fetch`
+
+The platform supports **many more models than the few used in this README**.
+The snippets below are only representative examples for how to call the SDK.
+
+For the latest supported models, parameters, and capability updates, always check:
+
+- [Official API docs](https://open-route-api.fashionlabs.cn/431672322e0)
 
 Features:
 
@@ -29,6 +36,8 @@ pip install -e sdk/python
 
 ## Quick Example
 
+Representative chat example:
+
 ```python
 from ima_router import IMARouter
 
@@ -43,6 +52,8 @@ print(response["choices"][0]["message"]["content"])
 ```
 
 ## Multimodal Example
+
+Representative image example:
 
 ```python
 from ima_router import IMARouter, GeminiImageRequest
@@ -78,3 +89,9 @@ client = IMARouter(
     base_url="https://open-route.fashionlabs.cn",
 )
 ```
+
+## Notes
+
+- Do not treat the model names in this README as the full supported model list.
+- New models can be added before this README is updated.
+- Server-side validation and the official docs are the source of truth for model-specific parameters.

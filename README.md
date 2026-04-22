@@ -45,6 +45,25 @@ ima-router supports industry-standard APIs:
 
 ---
 
+### 🔥 Latest Hot Models
+
+This section is intentionally kept as a **dynamic traffic entry** for the newest models we support.
+We will keep updating it as new launches go live.
+
+Current highlights:
+
+* Claude 4.7
+* Seedance 2.0
+* GPT Image 2
+* Banana
+* Happy Horse
+* Kling v3
+
+👉 For the full and continuously updated model list, check the official docs:
+[open-route-api.fashionlabs.cn/431672322e0](https://open-route-api.fashionlabs.cn/431672322e0)
+
+---
+
 ### 🧰 SDKs & Examples
 
 Use the language-specific guides instead of putting every Quick Start directly on the repository front page:
@@ -148,6 +167,12 @@ ima-router provides:
 
 👉 Full API reference:
 [open-route-api.fashionlabs.cn/431672322e0](https://open-route-api.fashionlabs.cn/431672322e0)
+
+👉 SDK-specific quick starts:
+
+* [Python SDK](sdk/python/README.md)
+* [Go SDK](sdk/go/README.md)
+* [Java SDK](sdk/java/README.md)
 
 ---
 
