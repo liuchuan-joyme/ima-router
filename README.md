@@ -1,9 +1,12 @@
 # ima-router
 
-🔥 One API Key for mainstream AI models across China + US
-🧠 OpenAI + Anthropic API compatible
-🎬 Multimodal-first: LLM + Image + Video + Audio in one API
-💰 Better pricing, stronger stability, faster model access
+- 🔥 One API Key for ALL AI models
+- 🎬 LLM + Image + Video + Audio in ONE API
+- 🌏 Mainstream China + US model coverage
+- 💰 Better pricing, stronger stability, faster model access
+- 🔁 OpenAI + Anthropic compatible
+
+👉 Stop switching between APIs. Use everything with one key.
 
 ---
 
@@ -11,10 +14,23 @@
 
 ima-router is a **unified AI gateway** that lets you:
 
-👉 Use **mainstream AI models across China + US with ONE API key**
-👉 Access **LLMs + Video + Image + Audio** in a single API layer
-👉 Switch providers and hot models without rewriting your integration
-👉 Build on **pricing advantages, routing stability, and broad multimodal coverage**
+- 👉 Use **mainstream AI models across China + US with ONE API key**
+- 👉 Access **LLMs + Video + Image + Audio** in a single API layer
+- 👉 Switch providers and hot models without rewriting your integration
+- 👉 Build on **pricing advantages, routing stability, and broad multimodal coverage**
+
+---
+
+## 🧠 What problem does ima-router solve?
+
+AI teams today often need to:
+
+* manage multiple API keys
+* switch between different SDKs and provider formats
+* integrate LLM, image, video, and audio APIs separately
+* keep updating integrations when hot models change
+
+👉 ima-router solves this with one unified API layer.
 
 ---
 
@@ -36,11 +52,21 @@ It is designed for teams that need one production gateway for:
 
 ### 🔑 One API Key
 
-No more managing multiple providers or constantly updating integrations one by one.
+Instead of managing:
 
-* One key for a fast-growing set of leading AI providers and model platforms
-* One integration surface for LLM, Image, Video and Audio
-* One billing and routing layer for your application stack
+* one OpenAI key
+* one Anthropic key
+* one image provider account
+* multiple video model providers
+* separate billing and routing logic
+
+👉 You only need **ONE API key**.
+
+With ima-router, you get:
+
+* one key for a fast-growing set of leading AI providers and model platforms
+* one integration surface for LLM, Image, Video and Audio
+* one billing and routing layer for your application stack
 
 👉 For the latest supported providers and models, visit our official website:
 [www.imarouter.com](https://www.imarouter.com/)
@@ -77,8 +103,7 @@ That means you can use one gateway to reach:
 
 ### 🔥 Latest Hot Models
 
-This section is intentionally kept as a **dynamic traffic entry** for the newest models we support.
-We will keep updating it as new launches go live.
+This section is intentionally kept as a **dynamic traffic entry** for the newest models we support, and we will keep updating it as new launches go live.
 
 Current highlights:
 
@@ -138,8 +163,7 @@ Representative examples:
 * Happy Horse
 * and more
 
-👉 All accessible through one unified interface.
-For the latest model coverage, visit [www.imarouter.com](https://www.imarouter.com/)
+👉 All accessible through one unified interface. For the latest model coverage, visit [www.imarouter.com](https://www.imarouter.com/)
 
 ---
 
@@ -150,6 +174,16 @@ For the latest model coverage, visit [www.imarouter.com](https://www.imarouter.c
 * Better operational consistency than stitching together many separate APIs
 
 👉 Built for teams that care about production reliability, not just quick demos.
+
+---
+
+### 🤝 Developer Trust
+
+* Microsoft official partner
+* Built for production-style routing, not single-provider lock-in
+* Designed for teams that care about reliability, coverage, and long-term integration stability
+
+👉 ima-router is built to be a dependable infrastructure layer for AI products.
 
 ---
 
@@ -197,8 +231,8 @@ response = client.chat.completions.create(
 )
 ```
 
-👉 Automatically selects the best model
-👉 Optimizes for cost & performance
+- 👉 Automatically selects the best model
+- 👉 Optimizes for cost & performance
 
 ---
 
@@ -216,13 +250,13 @@ ima-router provides:
 
 ## 📚 Documentation
 
-👉 Official website:
-[www.imarouter.com](https://www.imarouter.com/)
+- 👉 Official website:
+  [www.imarouter.com](https://www.imarouter.com/)
 
-👉 Full API reference:
-[open-route-api.fashionlabs.cn/431672322e0](https://open-route-api.fashionlabs.cn/431672322e0)
+- 👉 Full API reference:
+  [open-route-api.fashionlabs.cn/431672322e0](https://open-route-api.fashionlabs.cn/431672322e0)
 
-👉 SDK-specific quick starts:
+- 👉 SDK-specific quick starts:
 
 * [Python SDK](sdk/python/README.md)
 * [Go SDK](sdk/go/README.md)
