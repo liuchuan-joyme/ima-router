@@ -114,6 +114,8 @@ Current highlights:
 * Happy Horse
 * Kling v3
 
+👉 If the model or platform you need is not currently available, contact us and we can usually get it configured within **24 hours**.
+
 👉 For the latest supported hot models and continuously updated lineup, visit:
 [www.imarouter.com](https://www.imarouter.com/)
 
@@ -275,6 +277,13 @@ ima-router provides:
 ## 📄 License
 
 MIT License
+
+---
+
+## 📬 Contact
+
+* Business / partnerships: [bd@imarouter.com](mailto:bd@imarouter.com)
+* User support: [support@imarouter.com](mailto:support@imarouter.com)
 
 ---
 
